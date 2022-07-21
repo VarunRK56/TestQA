@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7594" started-at="2019-06-11T08:16:45Z" finished-at="2019-06-11T08:16:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7594" started-at="2019-06-11T08:16:45Z" finished-at="2019-06-11T08:16:53Z">
+      <class name="Mytest.Test.provision">
+        <test-method status="PASS" signature="testrun()[pri:0, instance:Mytest.Test.provision@42dafa95]" name="testrun" duration-ms="7558" started-at="2019-06-11T13:46:45Z" finished-at="2019-06-11T13:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testrun -->
+      </class> <!-- Mytest.Test.provision -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
